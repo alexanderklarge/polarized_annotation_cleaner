@@ -1,0 +1,2453 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "12JcjSDuxX",
+      "guid": "12JcjSDuxX",
+      "created": "2021-06-17T20:38:37.637Z",
+      "lastUpdated": "2021-06-17T20:38:37.637Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "That is, Anki makes\n\tmemory a choice, rather than a haphazard event, to be\n\tleft to chance"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 871.875
+    },
+    {
+      "id": "1k11aFuAey",
+      "guid": "1k11aFuAey",
+      "created": "2021-06-17T20:38:54.881Z",
+      "lastUpdated": "2021-06-17T20:38:54.881Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I'll discuss how to use Anki to understand\n\tresearch papers, books, and much else. And I'll describe\n\tnumerous patterns and anti-patterns for Anki use."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 889.875
+    },
+    {
+      "id": "12PMA139bT",
+      "guid": "12PMA139bT",
+      "created": "2021-06-17T20:39:51.379Z",
+      "lastUpdated": "2021-06-17T20:39:51.379Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Part I: How to remember almost anything: the Anki\n      system\n\n    "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 1299.78125
+    },
+    {
+      "id": "1hgM4Fuw4R",
+      "guid": "1hgM4Fuw4R",
+      "created": "2021-06-17T20:40:42.199Z",
+      "lastUpdated": "2021-06-17T20:40:42.199Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I therefore have two rules of thumb. First, if memorizing a fact\n      seems worth 10 minutes of my time in the future, then I do\n      it**"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 2839.921875
+    },
+    {
+      "id": "1XaFJ5Pfud",
+      "guid": "1XaFJ5Pfud",
+      "created": "2021-06-17T20:41:05.179Z",
+      "lastUpdated": "2021-06-17T20:41:05.179Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "The single biggest change that Anki brings about is that it\n      means memory is no longer a haphazard event, to be left to\n      chance. Rather, it guarantees I will remember something, with\n      minimal effort. That is, Anki makes memory a\n      choice. \n    \n\n    "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 2999.921875
+    },
+    {
+      "id": "17KYtXqsqk",
+      "guid": "17KYtXqsqk",
+      "created": "2021-06-17T20:41:22.849Z",
+      "lastUpdated": "2021-06-17T20:41:22.849Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "What can Anki be used for? I use Anki in all parts of my\n      life. Professionally, I use it to learn from papers and books;\n      to learn from talks and conferences; to help recall interesting\n      things learned in conversation; and to remember key observations\n      made while doing my everyday work. Personally, I use it to\n      remember all kinds of facts relevant to my family and social\n      life; about my city and travel; and about my hobbies."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 3051.921875
+    },
+    {
+      "id": "1ffjaZRZnR",
+      "guid": "1ffjaZRZnR",
+      "created": "2021-06-17T20:42:05.211Z",
+      "lastUpdated": "2021-06-17T20:42:05.211Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I had trouble getting started with Anki. Several acquaintances\n      highly recommended it (or similar systems), and over the years I\n      made multiple attempts to use it, each time quickly giving\n      up. In retrospect, there are substantial barriers to get over if\n      you want to make it a habit."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 3351.921875
+    },
+    {
+      "id": "1ow4YmZRhs",
+      "guid": "1ow4YmZRhs",
+      "created": "2021-06-17T20:42:19.193Z",
+      "lastUpdated": "2021-06-17T20:42:19.193Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "What made Anki finally “take” for me, turning it\n      into a habit, was a project I took on as a joke. I'd been\n      frustrated for years at never really learning the Unix command\n      line. I'd only ever learned the most basic commands. Learning\n      the command line is a superpower for people who program"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 3421.921875
+    },
+    {
+      "id": "127knmpuFy",
+      "guid": "127knmpuFy",
+      "created": "2021-06-17T20:43:07.429Z",
+      "lastUpdated": "2021-06-17T20:43:07.429Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Choosing this rather ludicrous, albeit extremely useful, goal\n      gave me a great deal of confidence in Anki. It was exciting,\n      making it obvious that Anki would make it easy to learn things\n      that would formerly have been quite tedious and difficult for me\n      to learn.  This confidence, in turn, made it much easier to\n      build an Anki habit"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 3739.921875
+    },
+    {
+      "id": "12DYUPrufZ",
+      "guid": "12DYUPrufZ",
+      "created": "2021-06-17T20:43:17.665Z",
+      "lastUpdated": "2021-06-17T20:43:17.665Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Using Anki to thoroughly read a research paper in an\n    unfamiliar field\n\n    "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 3848.640625
+    },
+    {
+      "id": "12aCHL77u7",
+      "guid": "12aCHL77u7",
+      "created": "2021-06-18T18:18:46.169Z",
+      "lastUpdated": "2021-06-18T18:18:46.169Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Here's how I went about it."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4545.125
+    },
+    {
+      "id": "12DXfAu1hV",
+      "guid": "12DXfAu1hV",
+      "created": "2021-06-18T18:18:59.307Z",
+      "lastUpdated": "2021-06-18T18:18:59.307Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I began with the\n      AlphaGo paper itself. I\n      began reading it quickly, almost skimming. I wasn't looking for\n      a comprehensive understanding. Rather, I was doing two\n      things. One, I was trying to simply identify the most important\n      ideas in the paper. What were the names of the key techniques\n      I'd need to learn about? Second, there was a kind of hoovering\n      process, looking for basic facts that I could understand easily,\n      and that would obviously benefit me. Things like basic\n      terminology, the rules of Go, and so on."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4579.125
+    },
+    {
+      "id": "1aQvgp1c4PyY83sXfHpF",
+      "guid": "1aQvgp1c4PyY83sXfHpF",
+      "created": "2021-06-18T18:19:34.832Z",
+      "lastUpdated": "2021-06-18T18:19:34.832Z",
+      "content": {
+        "HTML": "Very similar to the \"how to absorb textbooks like a sponge\" video. I should make a framework / flowchart for learning topics! 1) Skim, look at diagrams, then highlight, then Anki etc"
+      },
+      "ref": "text-highlight:12DXfAu1hV"
+    },
+    {
+      "id": "1r6iExWmVi",
+      "guid": "1r6iExWmVi",
+      "created": "2021-06-18T18:19:47.385Z",
+      "lastUpdated": "2021-06-18T18:19:47.385Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Here's a few examples of the kind of question I entered into\n      Anki at this stage: “What's the size of a Go\n      board?”; “Who plays first in Go?”; “How\n      many human game positions did AlphaGo learn from?”"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4685.125
+    },
+    {
+      "id": "1Qqgv69oeC",
+      "guid": "1Qqgv69oeC",
+      "created": "2021-06-18T18:19:52.786Z",
+      "lastUpdated": "2021-06-18T18:19:52.786Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "As you can see, these are all elementary questions."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4755.125
+    },
+    {
+      "id": "1uwjaqwDY5",
+      "guid": "1uwjaqwDY5",
+      "created": "2021-06-18T18:20:36.839Z",
+      "lastUpdated": "2021-06-18T18:20:36.839Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "They're the\n      kind of thing that are very easily picked up during an initial\n      pass over the paper, with occasional digressions to search\n      Google and Wikipedia, and so on."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4755.125
+    },
+    {
+      "id": "1c9BEgV9pz",
+      "guid": "1c9BEgV9pz",
+      "created": "2021-06-18T18:20:47.574Z",
+      "lastUpdated": "2021-06-18T18:20:47.574Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "also seemed likely to be\n      useful in building a deeper understanding of other material in\n      the paper"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4791.125
+    },
+    {
+      "id": "12fQWRwL12",
+      "guid": "12fQWRwL12",
+      "created": "2021-06-18T18:21:00.005Z",
+      "lastUpdated": "2021-06-18T18:21:00.005Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I made several rapid passes over the paper in this way, each\n      time getting deeper and deeper"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4825.125
+    },
+    {
+      "id": "12gKCqAMcR",
+      "guid": "12gKCqAMcR",
+      "created": "2021-06-18T18:21:08.187Z",
+      "lastUpdated": "2021-06-18T18:21:08.187Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I was trying to build up my background\n      understanding"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4843.125
+    },
+    {
+      "id": "12BwANN5A6",
+      "guid": "12BwANN5A6",
+      "created": "2021-06-18T18:21:23.360Z",
+      "lastUpdated": "2021-06-18T18:21:23.360Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "After five or six such passes over the paper, I went back and\n      attempted a thorough read"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 4931.125
+    },
+    {
+      "id": "12oJnk2a2eLYC6ne52Qx",
+      "guid": "12oJnk2a2eLYC6ne52Qx",
+      "created": "2021-06-18T18:22:05.922Z",
+      "lastUpdated": "2021-06-18T18:22:05.922Z",
+      "content": {
+        "HTML": "this is so counterintuitive to me as I nornally want to do incremental reading, but sounds worth trying and maybe way more effective. Could I write something like GTD, but it's about learning material?\n"
+      },
+      "ref": "text-highlight:12BwANN5A6"
+    },
+    {
+      "id": "12jDMz5hNG",
+      "guid": "12jDMz5hNG",
+      "created": "2021-06-18T18:22:28.417Z",
+      "lastUpdated": "2021-06-18T18:22:28.417Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "After doing one thorough pass over the AlphaGo paper, I made a\n      second thorough pass, in a similar vein. Yet more fell into\n      place. By this time, I understood the AlphaGo system reasonably\n      well. Many of the questions I was putting into Anki were high\n      level, sometimes on the verge of original research directions"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5019.125
+    },
+    {
+      "id": "12B7tuNSV1",
+      "guid": "12B7tuNSV1",
+      "created": "2021-06-18T18:22:53.036Z",
+      "lastUpdated": "2021-06-18T18:22:53.036Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Of course, instead of using Anki I could have taken conventional\n      notes, using a similar process to build up an understanding of\n      the paper. But using Anki gave me confidence I would retain much\n      of the understanding over the long term"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5143.125
+    },
+    {
+      "id": "1cXd36nGdq",
+      "guid": "1cXd36nGdq",
+      "created": "2021-06-18T18:23:23.536Z",
+      "lastUpdated": "2021-06-18T18:23:23.536Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "By contrast, had I used conventional note-taking in my original\n      reading of the AlphaGo paper, my understanding would have more\n      rapidly evaporated, and it would have taken longer to read the\n      later papers. And so using Anki in this way gives confidence you\n      will retain understanding over the long term. This confidence,\n      in turn, makes the initial act of understanding more\n      pleasurable, since you believe you're learning something for the\n      long haul, not something you'll forget in a day or a week"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5321.125
+    },
+    {
+      "id": "1cErQcR9xw",
+      "guid": "1cErQcR9xw",
+      "created": "2021-06-18T18:23:36.410Z",
+      "lastUpdated": "2021-06-18T18:23:36.410Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "OK, but what does one do with it?\n    … [N]ow that I have all this power – a mechanical\n    golem that will never forget and never let me forget whatever I\n    chose to – what do I choose to remember?\n    – Gwern\n    Branwen\n    "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 5409.125
+    },
+    {
+      "id": "12bVSLXKm6",
+      "guid": "12bVSLXKm6",
+      "created": "2021-06-18T18:24:00.035Z",
+      "lastUpdated": "2021-06-18T18:24:00.035Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "This entire process took a few days of my time, spread over a\n      few weeks. That's a lot of work. However, the payoff was that I\n      got a pretty good basic grounding in modern deep reinforcement\n      learning."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5461.125
+    },
+    {
+      "id": "12188mnoCV",
+      "guid": "12188mnoCV",
+      "created": "2021-06-18T18:24:08.100Z",
+      "lastUpdated": "2021-06-18T18:24:08.100Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "With a few\n      days work I'd gone from knowing nothing about deep reinforcement\n      learning to a durable understanding of a key paper in the field,\n      a paper that made use of many techniques that were used across\n      the entire field"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5497.125
+    },
+    {
+      "id": "1nsJpYEi4R",
+      "guid": "1nsJpYEi4R",
+      "created": "2021-06-18T18:24:23.831Z",
+      "lastUpdated": "2021-06-18T18:24:23.831Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "It's notable that I was reading the AlphaGo paper in support\n\tof a creative project of my own, namely, writing an article\n\tfor Quanta Magazine. This is important: I find Anki works much\n\tbetter when used in service to some personal creative project.\n      \n\n      "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5603.125
+    },
+    {
+      "id": "12oi5Lj2cX",
+      "guid": "12oi5Lj2cX",
+      "created": "2021-06-18T18:24:42.124Z",
+      "lastUpdated": "2021-06-18T18:24:42.124Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "t's tempting instead to use Anki to stockpile knowledge\n\tagainst some future day, to think “Oh, I should learn\n\tabout the geography of Africa, or learn about World War II, or\n\t[…]”. These are goals which, for me, are\n\tintellectually appealing, but which I'm not emotionally\n\tinvested in.  I've tried this a bunch of times. It tends to\n\tgenerate cold and lifeless Anki questions, questions which I\n\tfind hard to connect to upon later review"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5655.125
+    },
+    {
+      "id": "1uNjALGTcD",
+      "guid": "1uNjALGTcD",
+      "created": "2021-06-18T18:25:33.159Z",
+      "lastUpdated": "2021-06-18T18:25:33.159Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Study hard what interests you the most\n      in the most undisciplined, irreverent and original manner\n      possible. – Richard Feynman\n      "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5779.125
+    },
+    {
+      "id": "12feoWS4vY",
+      "guid": "12feoWS4vY",
+      "created": "2021-06-18T18:25:44.856Z",
+      "lastUpdated": "2021-06-18T18:25:44.856Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Using Anki to do shallow reads of papers\n    \n    "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 5903.84375
+    },
+    {
+      "id": "123rAP4iQc",
+      "guid": "123rAP4iQc",
+      "created": "2021-06-18T18:26:03.026Z",
+      "lastUpdated": "2021-06-18T18:26:03.026Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Most of my Anki-based reading is much shallower than my read of\n      the AlphaGo paper. Rather than spending days on a paper, I'll\n      typically spend 10 to 60 minutes"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5943.5625
+    },
+    {
+      "id": "1eQoo2YZupTEbNwwFyRR",
+      "guid": "1eQoo2YZupTEbNwwFyRR",
+      "created": "2021-06-18T18:26:25.833Z",
+      "lastUpdated": "2021-06-18T18:26:25.833Z",
+      "content": {
+        "HTML": "I'd love to be like him and read papers as part of my job..."
+      },
+      "ref": "text-highlight:123rAP4iQc"
+    },
+    {
+      "id": "12nEztDy3H",
+      "guid": "12nEztDy3H",
+      "created": "2021-06-18T18:26:34.320Z",
+      "lastUpdated": "2021-06-18T18:26:34.320Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Here's a few notes on some patterns I've found useful in\n      shallow reading.\n    \n\n    "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 5961.5625
+    },
+    {
+      "id": "1JnHYAdoRR",
+      "guid": "1JnHYAdoRR",
+      "created": "2021-06-18T18:26:57.997Z",
+      "lastUpdated": "2021-06-18T18:26:57.997Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "This doesn't mean reading every word in the paper. Rather, I'll\n      add to Anki questions about the core claims, core questions, and\n      core ideas of the paper"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 6083.5625
+    },
+    {
+      "id": "12dRYUECT1MAkQ5krNAD",
+      "guid": "12dRYUECT1MAkQ5krNAD",
+      "created": "2021-06-18T18:27:42.592Z",
+      "lastUpdated": "2021-06-18T18:27:42.592Z",
+      "content": {
+        "HTML": "Just thought: I guess he's not adding these into a PKM system? Is PKM worth it? I'd say so as it means you have robust notes to return to and connect, but it does slow things down considerably..."
+      },
+      "ref": "text-highlight:1JnHYAdoRR"
+    },
+    {
+      "id": "12QfdbViwx",
+      "guid": "12QfdbViwx",
+      "created": "2021-06-18T18:27:56.981Z",
+      "lastUpdated": "2021-06-18T18:27:56.981Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "It's particularly helpful to extract\n      Anki questions from the abstract, introduction, conclusion,\n      figures, and figure captions"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 6101.5625
+    },
+    {
+      "id": "1vFPoN7cjf",
+      "guid": "1vFPoN7cjf",
+      "created": "2021-06-18T18:28:06.784Z",
+      "lastUpdated": "2021-06-18T18:28:06.784Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Typically I will extract anywhere\n      from 5 to 20 Anki questions from the paper. It's usually a bad\n      idea to extract fewer than 5 questions – doing so tends to\n      leave the paper as a kind of isolated orphan in my memory"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 6119.5625
+    },
+    {
+      "id": "1t1jzuV8jB",
+      "guid": "1t1jzuV8jB",
+      "created": "2021-06-18T18:29:09.008Z",
+      "lastUpdated": "2021-06-18T18:29:09.008Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "How to avoid Ankifying misleading work?\n    \n\n    "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 6277.5625
+    },
+    {
+      "id": "1MFpdrW3BG",
+      "guid": "1MFpdrW3BG",
+      "created": "2021-06-18T18:29:20.678Z",
+      "lastUpdated": "2021-06-18T18:29:20.678Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": " “What does Jones 2011 claim is the average age at\n      which physics Nobelists made their prizewinning discovery, over\n      1980-2011?” (Answer: 48).  Another variant question was:\n      “Which paper claimed that physics Nobelists made their\n      prizewinning discovery at average age 48, over the period\n      1980-2011?”"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 6399.5625
+    },
+    {
+      "id": "12t7pdFqqf",
+      "guid": "12t7pdFqqf",
+      "created": "2021-06-18T19:47:20.680Z",
+      "lastUpdated": "2021-06-18T19:47:20.680Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Another useful pattern while reading papers is Ankifying\n      figures"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 6717.5625
+    },
+    {
+      "id": "12Gb3nBEQ4",
+      "guid": "12Gb3nBEQ4",
+      "created": "2021-06-18T19:47:30.306Z",
+      "lastUpdated": "2021-06-18T19:47:30.306Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I have an Anki question which simply says: “Visualize the\n      graph Jones 2011 made of the probability curves for physicists\n      making their prizewinning discoveries by age 30 and\n      40”"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 7264.5625
+    },
+    {
+      "id": "1SZ3hhpzQo",
+      "guid": "1SZ3hhpzQo",
+      "created": "2021-06-18T19:47:50.869Z",
+      "lastUpdated": "2021-06-18T19:47:50.869Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I could deepen my engagement with the graph by adding\n      questions such as: “In Jones 2011's graph of physics\n      prizewinning discoveries, what is the peak probability of great\n      achievement by age 40 [i.e., the highest point in the blue line\n      in the graph above]?” (Answer: about 0.8.)  Indeed, one\n      could easily add dozens of interesting questions about this\n      graph."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 7300.5625
+    },
+    {
+      "id": "129wyGpqEA",
+      "guid": "129wyGpqEA",
+      "created": "2021-06-18T19:48:23.226Z",
+      "lastUpdated": "2021-06-18T19:48:23.226Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "It's worth deliberately\n      practicing such switches, to avoid building a counter-productive\n      habit of completionism in your reading"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 7460.5625
+    },
+    {
+      "id": "12y7W6mNBP",
+      "guid": "12y7W6mNBP",
+      "created": "2021-06-18T19:48:30.340Z",
+      "lastUpdated": "2021-06-18T19:48:30.340Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "It's a failure\n      mode to spend too long reading unimportant papers."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 7496.5625
+    },
+    {
+      "id": "12TsnZ6nN1",
+      "guid": "12TsnZ6nN1",
+      "created": "2021-06-18T19:48:33.144Z",
+      "lastUpdated": "2021-06-18T19:48:33.144Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Syntopic reading using Anki\n    \n      "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 7533.28125
+    },
+    {
+      "id": "1212y6EcnE",
+      "guid": "1212y6EcnE",
+      "created": "2021-06-18T19:48:55.927Z",
+      "lastUpdated": "2021-06-18T19:48:55.927Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "'ve talked about how to use Anki to do shallow reads of\n\tpapers, and rather deeper reads of papers. There's also a\n\tsense in which it's possible to use Anki not just to read\n\tpapers, but to “read” the entire research\n\tliterature of some field or subfield.  Here's how to do it."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 7573
+    },
+    {
+      "id": "1VXFYVCMGS",
+      "guid": "1VXFYVCMGS",
+      "created": "2021-06-18T19:49:15.719Z",
+      "lastUpdated": "2021-06-18T19:49:15.719Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "You might suppose the foundation would be a shallow read of a\n\tlarge number of papers. In fact, to really grok an unfamiliar\n\tfield, you need to engage deeply with key papers –\n\tpapers like the AlphaGo paper. What you get from deep\n\tengagement with important papers is more significant than any\n\tsingle fact or technique: you get a sense for what a powerful\n\tresult in the field looks like."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 7643
+    },
+    {
+      "id": "1nCLTKr8Bv",
+      "guid": "1nCLTKr8Bv",
+      "created": "2021-06-18T19:49:41.413Z",
+      "lastUpdated": "2021-06-18T19:49:41.413Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "So, to get a picture of an entire field, I usually begin with\n\ta truly important paper, ideally a paper establishing a result\n\tthat got me interested in the field in the first place. I do a\n\tthorough read of that paper, along the lines of what I\n\tdescribed for AlphaGo. Later, I do thorough reads of other key\n\tpapers in the field – ideally, I read the best 5-10\n\tpapers in the field"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 7803
+    },
+    {
+      "id": "1JPYCGSzrW",
+      "guid": "1JPYCGSzrW",
+      "created": "2021-06-18T19:49:46.209Z",
+      "lastUpdated": "2021-06-18T19:49:46.209Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "But, interspersed, I also do shallower\n\treads of a much larger number of less important (though still\n\tgood) papers"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 7839
+    },
+    {
+      "id": "1MXVEAwkWv",
+      "guid": "1MXVEAwkWv",
+      "created": "2021-06-18T19:50:39.830Z",
+      "lastUpdated": "2021-06-18T19:50:39.830Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Over time, this is a form of what Mortimer Adler and Charles\n\tvan Doren dubbed syntopic\n\treading** In their marvelous\n\t“How to Read a Book”: Mortimer J. Adler and\n\tCharles van Doren, “How to Read a Book: The Classic\n\tGuide to Intelligent Reading” (1972)."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 8051
+    },
+    {
+      "id": "1kYoxiKC5M",
+      "guid": "1kYoxiKC5M",
+      "created": "2021-06-18T19:51:18.973Z",
+      "lastUpdated": "2021-06-18T19:51:18.973Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I build up\n\tan understanding of an entire literature: what's been done,\n\twhat's not yet been done. Of course, it's not literally\n\treading an entire literature. But functionally it's close.  I\n\tstart to identify open problems, questions that I'd personally\n\tlike answered, but which don't yet seem to have been\n\tanswered."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 8087
+    },
+    {
+      "id": "1JmXe74trk",
+      "guid": "1JmXe74trk",
+      "created": "2021-06-18T19:51:33.906Z",
+      "lastUpdated": "2021-06-18T19:51:33.906Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I've been describing how I use Anki to learn fields which are\n      largely new to me.  By contrast, with a field I already know\n      well, my curiosity and my model of the field are often already\n      so strong that it's easy to integrate new facts. I still find\n      Anki useful, but it's definitely most useful in new areas"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 8229
+    },
+    {
+      "id": "12CaWYrAMQ",
+      "guid": "12CaWYrAMQ",
+      "created": "2021-06-18T19:52:32.723Z",
+      "lastUpdated": "2021-06-18T19:52:32.723Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I have tried to learn mathematics outside my fields of interest;\n      after any interval I had to begin all over again.\n    \n\n    \n      This captures something of the immense emotional effort I used\n      to find required to learn a new field. Without a lot of drive,\n      it was extremely difficult to make a lot of material in a new\n      field stick. Anki does much to solve that problem."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 8317
+    },
+    {
+      "id": "1MA5zrSpmC",
+      "guid": "1MA5zrSpmC",
+      "created": "2021-06-18T19:53:03.391Z",
+      "lastUpdated": "2021-06-18T19:53:03.391Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "One surprising consequence of reading in this way is how much\n      more enjoyable it becomes. I've always enjoyed reading, but\n      starting out in a challenging new field was sometimes a real\n      slog, and I was often bedeviled by doubts that I would ever\n      really get into the field. That doubt, in turn, made it less\n      likely that I would succeed. Now I have confidence that I can go\n      into a new field and quickly attain a good, relatively deep\n      understanding,"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 8493
+    },
+    {
+      "id": "125aCrBAyH",
+      "guid": "125aCrBAyH",
+      "created": "2021-06-18T19:53:18.802Z",
+      "lastUpdated": "2021-06-18T19:53:18.802Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Many people have written\n      accounts of how to read using personal memory systems. My\n      thinking was particularly stimulated by: Piotr\n      Wozniak, Incremental\n      Reading.."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 8565
+    },
+    {
+      "id": "1HbpXf1vEm",
+      "guid": "1HbpXf1vEm",
+      "created": "2021-06-18T19:53:35.156Z",
+      "lastUpdated": "2021-06-18T19:53:35.156Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "More patterns of Anki use\n\n\n    "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 8619.71875
+    },
+    {
+      "id": "12942rQL8f",
+      "guid": "12942rQL8f",
+      "created": "2021-06-18T19:54:19.069Z",
+      "lastUpdated": "2021-06-18T19:54:19.069Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Another useful list of patterns\n      is: Piotr\n      Wozniak, Effective\n      learning: Twenty rules of formulating\n      knowledge."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 8659.4375
+    },
+    {
+      "id": "12AA9x1hVi",
+      "guid": "12AA9x1hVi",
+      "created": "2021-06-18T19:54:29.944Z",
+      "lastUpdated": "2021-06-18T19:54:29.944Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Make most Anki questions and answers as atomic as\n\t  possible"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 8729.4375
+    },
+    {
+      "id": "12aFNEY2qn",
+      "guid": "12aFNEY2qn",
+      "created": "2021-06-18T19:55:15.778Z",
+      "lastUpdated": "2021-06-18T19:55:15.778Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Anki use is best thought of as a virtuoso skill, to be\n\t  developed"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9343.4375
+    },
+    {
+      "id": "1PyCmQkkQU",
+      "guid": "1PyCmQkkQU",
+      "created": "2021-06-18T19:55:29.119Z",
+      "lastUpdated": "2021-06-18T19:55:29.119Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Anki isn't just a tool for memorizing simple facts.\n\t  It's a tool for understanding almost anything"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9431.4375
+    },
+    {
+      "id": "12PsGh9A22",
+      "guid": "12PsGh9A22",
+      "created": "2021-06-18T19:55:55.924Z",
+      "lastUpdated": "2021-06-18T19:55:55.924Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Part of developing Anki as a virtuoso skill is cultivating the\n\tability to use it for types of understanding beyond basic\n\tfacts. Indeed, many of the observations I've made (and will\n\tmake, below) about how to use Anki are really about what it\n\tmeans to understand something."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9555.4375
+    },
+    {
+      "id": "1DFLWb1MuY",
+      "guid": "1DFLWb1MuY",
+      "created": "2021-06-18T19:56:15.334Z",
+      "lastUpdated": "2021-06-18T19:56:15.334Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Break things up into atomic\n\tfacts. Build rich hierarchies of interconnections and\n\tintegrative questions. Don't put in orphan questions. Patterns\n\tfor how to engage with reading material. Patterns (and\n\tanti-patterns) for question types. Patterns for the kinds of\n\tthings you'd like to memorize. Anki skills concretely\n\tinstantiate your theory of how you understand; developing\n\tthose skills will help you understand better. It's too strong\n\tto say that to be a virtuoso Anki user is to be a virtuoso in\n\tunderstanding. But there's some truth to it."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9591.4375
+    },
+    {
+      "id": "12NqSSByQ2",
+      "guid": "12NqSSByQ2",
+      "created": "2021-06-18T19:56:22.572Z",
+      "lastUpdated": "2021-06-18T19:56:22.572Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Use one big deck:"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9697.4375
+    },
+    {
+      "id": "12L6dsXSDx",
+      "guid": "12L6dsXSDx",
+      "created": "2021-06-18T20:00:03.330Z",
+      "lastUpdated": "2021-06-18T20:00:03.330Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "For instance, both my Emacs and Unix command line decks\n      had very similar questions, along the lines of: “How to\n      delete a word?” Those questions need to be rewritten,\n      e.g. as: “In Emacs, how to delete a word?”"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9733.4375
+    },
+    {
+      "id": "12ewvpeVdd",
+      "guid": "12ewvpeVdd",
+      "created": "2021-06-18T20:00:21.284Z",
+      "lastUpdated": "2021-06-18T20:00:21.284Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "merged my decks and subdecks\n      into one big deck. The world isn't divided up into neatly\n      separated components, and I believe it's good to collide very\n      different types of questions"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9805.4375
+    },
+    {
+      "id": "12bwHmfqbZ",
+      "guid": "12bwHmfqbZ",
+      "created": "2021-06-18T20:00:37.819Z",
+      "lastUpdated": "2021-06-18T20:00:37.819Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "But I don't think this mixing does any harm, and hope\n      it is creatively stimulating, and helps me apply my knowledge in\n      unusual contexts."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9859.4375
+    },
+    {
+      "id": "12GzAS2ujV",
+      "guid": "12GzAS2ujV",
+      "created": "2021-06-18T20:00:50.197Z",
+      "lastUpdated": "2021-06-18T20:00:50.197Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Avoid orphan questions:"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9911.4375
+    },
+    {
+      "id": "1qPNDw6NTy",
+      "guid": "1qPNDw6NTy",
+      "created": "2021-06-18T20:01:02.496Z",
+      "lastUpdated": "2021-06-18T20:01:02.496Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "That's\n      great, but my experience suggests that in a few months I'll\n      likely find those questions rather stale, and frequently get\n      them wrong. I believe the reason is that those questions are too\n      disconnected from my other interests, and I will have lost the\n      context that made me interested."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9947.4375
+    },
+    {
+      "id": "12m5QRJvDv",
+      "guid": "12m5QRJvDv",
+      "created": "2021-06-18T20:01:24.051Z",
+      "lastUpdated": "2021-06-18T20:01:24.051Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "if a substantial minority of your questions\n      are orphans, that's a sign you should concentrate more on\n      Ankifying questions related to your main creative projects, and\n      cut down on Ankifying tangential material."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 10053.4375
+    },
+    {
+      "id": "18TnZbJuwi",
+      "guid": "18TnZbJuwi",
+      "created": "2021-06-18T20:01:48.756Z",
+      "lastUpdated": "2021-06-18T20:01:48.756Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "It's particularly worth avoiding lonely orphans: single\n      questions that are largely disconnected from everything\n      else. Suppose, for instance, I'm reading an article on a new\n      subject, and I learn an idea that seems particularly useful. I\n      make it a rule to never put in one question. Rather, I try to\n      put at least two questions in, preferably three or more."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 10123.4375
+    },
+    {
+      "id": "1YZw5r5HXZ",
+      "guid": "1YZw5r5HXZ",
+      "created": "2021-06-18T20:02:19.035Z",
+      "lastUpdated": "2021-06-18T20:02:19.035Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Construct your own decks: The Anki site\n      has many shared\n      decks, but I've found only a little use for them. The most\n      important reason is that making Anki cards is an act of\n      understanding in itself.  That is, figuring out good questions\n      to ask, and good answers"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 10405.4375
+    },
+    {
+      "id": "1WckKbbWM8",
+      "guid": "1WckKbbWM8",
+      "created": "2021-06-18T20:03:07.782Z",
+      "lastUpdated": "2021-06-18T20:03:07.782Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Memory researchers have repeatedly found that\n      the more elaborately you encode a memory, the stronger the\n      memory will be. By elaborative encoding, they mean essentially\n      the richness of the associations you form."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 10493.4375
+    },
+    {
+      "id": "1Whr6HUngk",
+      "guid": "1Whr6HUngk",
+      "created": "2021-06-18T20:03:18.982Z",
+      "lastUpdated": "2021-06-18T20:03:18.982Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I personally\n      find it fascinating that Telstar was put into orbit the\n      year before the introduction of ASCII, arguably the\n      first modern digital standard for communicating text. Humanity\n      had a telecommunications satellite before we had a digital\n      standard for communicating text! Finding that kind of connection\n      is an example of an elaborative encoding."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 10617.4375
+    },
+    {
+      "id": "12tRfZrDHQ",
+      "guid": "12tRfZrDHQ",
+      "created": "2021-06-18T20:03:31.631Z",
+      "lastUpdated": "2021-06-18T20:03:31.631Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "The act of constructing an Anki card is itself nearly always a\n      form of elaborative encoding. It forces you to think through\n      alternate forms of the question"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 10705.4375
+    },
+    {
+      "id": "12L7ZWXzhn9AnuZwsygd",
+      "guid": "12L7ZWXzhn9AnuZwsygd",
+      "created": "2021-06-18T20:04:14.269Z",
+      "lastUpdated": "2021-06-18T20:04:14.269Z",
+      "content": {
+        "HTML": "I think I only asked really plain like \"what year did this happen\" questions re: History of England. Good next level would be actively engaging and thinking of more engaging and elaborate questions!"
+      },
+      "ref": "text-highlight:12tRfZrDHQ"
+    },
+    {
+      "id": "133EzuWSpq",
+      "guid": "133EzuWSpq",
+      "created": "2021-06-18T21:22:31.576Z",
+      "lastUpdated": "2021-06-18T21:22:33.254Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Cultivate strategies for elaborative encoding /\n\tforming rich associations:"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 10935.4375
+    },
+    {
+      "id": "12GJPwcEZ8",
+      "guid": "12GJPwcEZ8",
+      "created": "2021-06-18T21:22:44.823Z",
+      "lastUpdated": "2021-06-18T21:22:44.823Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "his is really a\n\tmeta-strategy, i.e., a strategy for forming strategies. One\n\tsimple example strategy is to use multiple variants of the\n\t“same” question"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 10935.4375
+    },
+    {
+      "id": "13utYrbJAK",
+      "guid": "13utYrbJAK",
+      "created": "2021-06-18T21:22:54.490Z",
+      "lastUpdated": "2021-06-18T21:22:54.490Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "This is really a\n\tmeta-strategy, i.e., a strategy for forming strategies. One\n\tsimple example strategy is to use multiple variants of the\n\t“same” question"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 10935.4375
+    },
+    {
+      "id": "126Qz34LFD",
+      "guid": "126Qz34LFD",
+      "created": "2021-06-18T21:23:51.041Z",
+      "lastUpdated": "2021-06-18T21:23:51.041Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "95% of Anki's value comes from 5% of the\n      features:"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 11503.4375
+    },
+    {
+      "id": "121wwsXZc6",
+      "guid": "121wwsXZc6",
+      "created": "2021-06-18T21:24:06.912Z",
+      "lastUpdated": "2021-06-18T21:24:06.912Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "My cards are always one of two\n      types: the majority are simple question and answer; a\n      substantial minority are what's called a cloze: a kind\n      of fill-in-the-blanks test"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 11521.4375
+    },
+    {
+      "id": "1sjr8rZEQ5",
+      "guid": "1sjr8rZEQ5",
+      "created": "2021-06-18T21:25:09.932Z",
+      "lastUpdated": "2021-06-18T21:25:09.932Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "For this reason, when someone is getting started I advise not\n      using any advanced features, and not installing any\n      plugins. Don't, in short, come down with a bad case of\n      programmer's efficiency disease. Learn how to use Anki for basic\n      question and answer, and concentrate on exploring new patterns\n      within that paradigm"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 11923.4375
+    },
+    {
+      "id": "1H3uUBtYtX",
+      "guid": "1H3uUBtYtX",
+      "created": "2021-06-20T09:49:16.478Z",
+      "lastUpdated": "2021-06-20T09:49:16.478Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Procedural versus declarative memory"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 9575.4375
+    },
+    {
+      "id": "12hycBtLhd",
+      "guid": "12hycBtLhd",
+      "created": "2021-06-20T09:49:38.704Z",
+      "lastUpdated": "2021-06-20T09:49:38.704Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "There's a\n      big difference between remembering a fact and mastering a\n      process"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9575.4375
+    },
+    {
+      "id": "1Bs75X9P6d",
+      "guid": "1Bs75X9P6d",
+      "created": "2021-06-20T09:49:43.562Z",
+      "lastUpdated": "2021-06-20T09:49:43.562Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Put another way: to really internalize a process, it's not\n      enough just to review Anki cards. You need to carry out the\n      process, in context. And you need to solve real problems with\n      it."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 9645.4375
+    },
+    {
+      "id": "12hzWonV4H",
+      "guid": "12hzWonV4H",
+      "created": "2021-06-20T09:50:13.252Z",
+      "lastUpdated": "2021-06-20T09:50:13.252Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Over time, that\n      declarative knowledge is becoming procedural knowledge I\n      routinely use in contex"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 14917.4375
+    },
+    {
+      "id": "1AGowiRsNs",
+      "guid": "1AGowiRsNs",
+      "created": "2021-06-20T09:51:08.719Z",
+      "lastUpdated": "2021-06-20T09:51:08.719Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Getting past “names don't matter”:\n      I'm a theoretical physicist by training. There is a famous story\n      in physics, told by Richard Feynman, dismissing the value of\n      knowing the names of things. As a child, Feynman was out playing\n      in a field with a know-it-all kid. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 15093.4375
+    },
+    {
+      "id": "1g36rg52B7",
+      "guid": "1g36rg52B7",
+      "created": "2021-06-20T09:51:18.474Z",
+      "lastUpdated": "2021-06-20T09:51:18.474Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "You'll only\n\tknow about humans in different places, and what they call the\n\tbird. So let's look at the bird and see what\n\tit's doing — that's what counts.” (I\n\tlearned very early the difference between knowing the name of\n\tsomething and knowing something.)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 15373.4375
+    },
+    {
+      "id": "1LVzxDuCLh",
+      "guid": "1LVzxDuCLh",
+      "created": "2021-06-20T09:51:41.558Z",
+      "lastUpdated": "2021-06-20T09:51:41.558Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "t's a good story. But it goes too far: names do matter. Maybe\n      not as much as the know-it-all kid thought, and they're not\n      usually a deep kind of knowledge. But they're the foundation\n      that allows you to build up a network of knowledge."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 15513.4375
+    },
+    {
+      "id": "1ZSYCJnUmp",
+      "guid": "1ZSYCJnUmp",
+      "created": "2021-06-20T09:51:54.223Z",
+      "lastUpdated": "2021-06-20T09:51:54.223Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "now I do it enthusiastically,\n\tknowing that it's an early step along the way to\n\tunderstanding."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 15619.4375
+    },
+    {
+      "id": "12MHgHPbuK",
+      "guid": "12MHgHPbuK",
+      "created": "2021-06-20T09:52:28.741Z",
+      "lastUpdated": "2021-06-20T09:52:28.741Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "What do you do when you get behind?"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 16279.4375
+    },
+    {
+      "id": "17wGDJ5ENh",
+      "guid": "17wGDJ5ENh",
+      "created": "2021-06-20T09:52:33.222Z",
+      "lastUpdated": "2021-06-20T09:52:33.222Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Anki\n      becomes challenging when you get behind with cards. If you skip\n      a day or two – or fifty – the cards begin to back\n      up"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 16279.4375
+    },
+    {
+      "id": "12j24ZZX7X",
+      "guid": "12j24ZZX7X",
+      "created": "2021-06-20T09:52:45.160Z",
+      "lastUpdated": "2021-06-20T09:52:45.160Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Fortunately, it wasn't that hard to catch up. I set myself\n      gradually increasing quotas (100, 150, 200, 250, and eventually\n      300) of cards per day, and worked through those quotas each day\n      for several weeks until I'd caught up."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 16385.4375
+    },
+    {
+      "id": "19ZZLHNJ1o",
+      "guid": "19ZZLHNJ1o",
+      "created": "2021-06-20T09:52:48.976Z",
+      "lastUpdated": "2021-06-20T09:52:48.976Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "While this wasn't too difficult, it was somewhat demoralizing\n      and discouraging"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 16455.4375
+    },
+    {
+      "id": "1zFf2HTsAA",
+      "guid": "1zFf2HTsAA",
+      "created": "2021-06-20T09:53:16.154Z",
+      "lastUpdated": "2021-06-20T09:53:16.154Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Using Anki for APIs, books, videos, seminars,\n\t  conversations, the web, events, and places: Nearly\n\t  everything I said earlier about Ankifying papers applies\n\t  also to other resources"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 16525.4375
+    },
+    {
+      "id": "1uCkako8Du",
+      "guid": "1uCkako8Du",
+      "created": "2021-06-20T09:53:24.269Z",
+      "lastUpdated": "2021-06-20T09:53:24.269Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "For seminars and conversations with colleagues I find it\n\tsurprisingly helpful to set Anki quotas. For instance, for\n\tseminars I try to find at least three high-quality questions\n\tto Ankify. For extended conversations, at least one\n\thigh-quality question to Ankify"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 16613.4375
+    },
+    {
+      "id": "1wsXyq1LNW",
+      "guid": "1wsXyq1LNW",
+      "created": "2021-06-20T09:53:31.006Z",
+      "lastUpdated": "2021-06-20T09:53:31.006Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I've found that setting\n\tquotas helps me pay more attention, especially during\n\tseminars."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 16649.4375
+    },
+    {
+      "id": "1nNxjU9gCW",
+      "guid": "1nNxjU9gCW",
+      "created": "2021-06-20T09:53:54.111Z",
+      "lastUpdated": "2021-06-20T09:53:54.111Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I tend to Ankify in real time as I read papers and books. For\n\tseminars, conversations, and so on I prefer to immerse myself\n\tin the experience. Instead of getting out Anki, I will quickly\n\tmake a mental (or paper) note of what I want to Ankify. I then\n\tenter it into Anki later"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 16789.4375
+    },
+    {
+      "id": "17aWC9GAv5",
+      "guid": "17aWC9GAv5",
+      "created": "2021-06-20T09:54:06.403Z",
+      "lastUpdated": "2021-06-20T09:54:06.403Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "One caution is with books: reading an entire book is a big\n\tcommitment, and adding Anki questions regularly can slow you\n\tdown a lot. It's worth keeping this in mind when deciding how\n\tmuch to Ankify. Sometimes a book is so dense with great\n\tmaterial that it's worth taking the time to add lots of\n\tquestions. But unmindfully Ankifying everything in sight is a\n\tbad habit, one I've occasionally fallen into."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 16895.4375
+    },
+    {
+      "id": "12F6yvAg94",
+      "guid": "12F6yvAg94",
+      "created": "2021-06-20T09:54:35.331Z",
+      "lastUpdated": "2021-06-20T09:54:35.331Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "What you Ankify is not a trivial choice: Ankify things that\n\tserve your long-term goals. In some measure we become what we\n\tremember, so we must be careful what we\n\tremember**"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 17001.4375
+    },
+    {
+      "id": "12gGRhthjN",
+      "guid": "12gGRhthjN",
+      "created": "2021-06-20T09:55:28.709Z",
+      "lastUpdated": "2021-06-20T09:55:28.709Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Something I haven't yet figured out is how to integrate Anki\n      with note taking for my creative projects. I can't replace note\n      taking with Anki – it's too slow, and for many things a\n      poor use of my long-term memory. On the other hand, there are\n      many benefits to using Anki for important items – fluid\n      access to memory is at the foundation of so much creative\n      thought"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 17213.4375
+    },
+    {
+      "id": "1LbEdcL532",
+      "guid": "1LbEdcL532",
+      "created": "2021-06-20T09:55:43.197Z",
+      "lastUpdated": "2021-06-20T09:55:43.197Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Avoid the yes/no pattern"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 17409.4375
+    },
+    {
+      "id": "12o5P6CL3B",
+      "guid": "12o5P6CL3B",
+      "created": "2021-06-20T09:55:56.772Z",
+      "lastUpdated": "2021-06-20T09:55:56.772Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Aren't external memory aids enough?"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 17655.4375
+    },
+    {
+      "id": "12kNT7Gp2p",
+      "guid": "12kNT7Gp2p",
+      "created": "2021-06-20T09:56:24.253Z",
+      "lastUpdated": "2021-06-20T09:56:24.253Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "for creative work and for problem-solving there is\n\tsomething special about having an internalized\n\tunderstanding. It enables speed in associative thought, an\n\tability to rapidly try out many combinations of ideas, and to\n\tintuit patterns, in ways not possible if you need to keep\n\tlaboriously looking up information."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 17691.4375
+    },
+    {
+      "id": "1VsXML5UW8",
+      "guid": "1VsXML5UW8",
+      "created": "2021-06-20T09:56:45.920Z",
+      "lastUpdated": "2021-06-20T09:56:45.920Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Fluency matters in thinking. Alan Kay and Adele Goldberg have\n\tproposed** Alan Kay and Adele\n\tGoldberg, Personal Dynamic\n\tMedia (1977). the thought experiment of a flute in\n\twhich there is “a one-second delay between blowing a\n\tnote and hearing it!” As they observe, this is\n\t“absurd”.  In a similar way, certain types of\n\tthoughts are much easier to have when all the relevant kinds\n\tof understanding are held in mind. And for that, Anki is\n\tinvaluable"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 17797.4375
+    },
+    {
+      "id": "17he1tNja8",
+      "guid": "17he1tNja8",
+      "created": "2021-06-20T09:57:37.048Z",
+      "lastUpdated": "2021-06-20T09:57:37.048Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "The analogy is only partial. In fact, Anki seems like a\n\tcontinual supply of $20 bills lying on the ground. And it's\n\treasonable to ask why it's not more widely used.  One of the\n\tmost cited papers in the relevant research\n\tliterature** Frank\n\tN. Dempster, The Spacing\n\tEffect: A Case Study in the Failure to Apply the Results of\n\tPsychological Research (1988). is a discussion of\n\twhy these ideas aren't more widely used in education. Although\n\twritten in 1988, many of the observations in the paper remain\n\ttrue today."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7",
+      "order": 17991.4375
+    },
+    {
+      "id": "12gbcDsoVa",
+      "guid": "12gbcDsoVa",
+      "created": "2021-06-20T09:57:42.687Z",
+      "lastUpdated": "2021-06-20T09:57:42.687Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "If personal memory systems are so great"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 17903.4375
+    },
+    {
+      "id": "12jvV3xmMF",
+      "guid": "12jvV3xmMF",
+      "created": "2021-06-20T09:57:47.479Z",
+      "lastUpdated": "2021-06-20T09:57:47.479Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "My own personal suspicion is that there are three main\n\tfactors:"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18115.4375
+    },
+    {
+      "id": "1sCwdGEfGE",
+      "guid": "1sCwdGEfGE",
+      "created": "2021-06-20T09:57:57.272Z",
+      "lastUpdated": "2021-06-20T09:57:57.272Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "people consistently\n\tunderestimate the gains that come from distributing their\n\tstudy in a manner similar to Anki. Instead, they prefer\n\tlast-minute cramming, and believe it produces better results,\n\tthough many studies show it does not."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18149.4375
+    },
+    {
+      "id": "1JbCNyVuoY",
+      "guid": "1JbCNyVuoY",
+      "created": "2021-06-20T09:58:12.014Z",
+      "lastUpdated": "2021-06-20T09:58:12.014Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Robert Bjork has\n\tsuggested**Robert\n\tA. Bjork, Memory and Metamemory\n\tConsiderations in the Training of Human Beings\n\t(1994). the “principle of desirable\n\tdifficulty”, the idea that memories are maximally\n\tstrengthened if tested when we're on the verge of forgetting\n\tthem. This suggests that an efficient memory system will\n\tintrinsically be somewhat difficult to use. Human beings have\n\ta complex relationship to difficult activities, and often\n\tdislike performing them"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18203.4375
+    },
+    {
+      "id": "12kxeE5PeM",
+      "guid": "12kxeE5PeM",
+      "created": "2021-06-20T09:58:19.924Z",
+      "lastUpdated": "2021-06-20T09:58:19.924Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Systems such as Anki are challenging to use well, and easy\n\tto use poorly."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18329.4375
+    },
+    {
+      "id": "12mmdkxCFA",
+      "guid": "12mmdkxCFA",
+      "created": "2021-06-20T09:58:30.687Z",
+      "lastUpdated": "2021-06-20T09:58:30.687Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Part II: Personal Memory Systems More Broadly\n\n      "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 18401.34375
+    },
+    {
+      "id": "126WeLn13v",
+      "guid": "126WeLn13v",
+      "created": "2021-06-20T09:58:46.004Z",
+      "lastUpdated": "2021-06-20T09:58:46.004Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "In the second, briefer, part of this essay we'll\n\tconsider two broader questions about personal memory systems:\n\thow important is memory as a cognitive skill; and what is the\n\trole of cognitive science in building personal memory systems?"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18467.25
+    },
+    {
+      "id": "12Jq6egrDN",
+      "guid": "12Jq6egrDN",
+      "created": "2021-06-20T09:58:56.976Z",
+      "lastUpdated": "2021-06-20T09:58:56.976Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "How important is long-term memory, anyway?\n      \n      "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 18539.96875
+    },
+    {
+      "id": "12HFay2paT",
+      "guid": "12HFay2paT",
+      "created": "2021-06-20T09:59:04.128Z",
+      "lastUpdated": "2021-06-20T09:59:04.128Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Long-term memory is sometimes disparaged. It's common for\n\tpeople to denigrate “rote memory”, especially in\n\tthe classroom"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18579.6875
+    },
+    {
+      "id": "1U2kceFbRr",
+      "guid": "1U2kceFbRr",
+      "created": "2021-06-20T09:59:15.486Z",
+      "lastUpdated": "2021-06-20T09:59:15.486Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "But I now believe\n\tmemory is at the foundation of our cognition."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18703.6875
+    },
+    {
+      "id": "12eCyDWXf3",
+      "guid": "12eCyDWXf3",
+      "created": "2021-06-20T09:59:24.392Z",
+      "lastUpdated": "2021-06-20T09:59:24.392Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "two main reasons for this change, one a personal\n\texperience, the other based on evidence from cognitive\n\tscience"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18737.6875
+    },
+    {
+      "id": "12JJ3NDC76",
+      "guid": "12JJ3NDC76",
+      "created": "2021-06-20T10:00:19.329Z",
+      "lastUpdated": "2021-06-20T10:00:19.329Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Over the years, I've often helped people learn technical\n\tsubjects such as quantum mechanics"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18823.6875
+    },
+    {
+      "id": "12EoLLJVTS",
+      "guid": "12EoLLJVTS",
+      "created": "2021-06-20T10:00:24.779Z",
+      "lastUpdated": "2021-06-20T10:00:24.779Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "One common pattern is that\n\tpeople think they're getting stuck on esoteric, complex\n\tissues. But when you dig down it turns out they're having a\n\thard time with basic notation and terminology."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 18841.6875
+    },
+    {
+      "id": "12FZGDy1St",
+      "guid": "12FZGDy1St",
+      "created": "2021-06-20T10:00:28.496Z",
+      "lastUpdated": "2021-06-20T10:00:28.496Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "My somewhat pious belief was that if people focused more on\n\tremembering the basics, and worried less about the\n\t“difficult” high-level issues, they'd find the\n\thigh-level issues took care of themselves."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19017.6875
+    },
+    {
+      "id": "12kGmQ8QYY",
+      "guid": "12kGmQ8QYY",
+      "created": "2021-06-20T10:00:48.002Z",
+      "lastUpdated": "2021-06-20T10:00:48.002Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "I found it\n\talmost unsettling how much easier Anki made learning such\n\tsubjects. I now believe memory of the basics is often the\n\tsingle largest barrier to understanding"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19105.6875
+    },
+    {
+      "id": "12DSyKHtoK",
+      "guid": "12DSyKHtoK",
+      "created": "2021-06-20T10:00:56.655Z",
+      "lastUpdated": "2021-06-20T10:00:56.655Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "This experience of how much easier Anki made learning a new\n\ttechnical field greatly increased my visceral appreciation for\n\tthe importance of memory.\n      \n\n      "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19193.6875
+    },
+    {
+      "id": "12qEuLgwu4",
+      "guid": "12qEuLgwu4",
+      "created": "2021-06-20T10:01:03.331Z",
+      "lastUpdated": "2021-06-20T10:01:03.331Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "also many results from cognitive science on the key\n\trole memory plays in cognition.\n      \n\n      "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19245.6875
+    },
+    {
+      "id": "1qbVvaVYr6",
+      "guid": "1qbVvaVYr6",
+      "created": "2021-06-20T10:01:26.033Z",
+      "lastUpdated": "2021-06-20T10:01:26.033Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "One striking line of work was done (separately) by the\n\tresearchers Adriaan de Groot and Herbert Simon, studying how\n\tpeople acquire expertise, focusing particularly on\n\tchess*"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19279.6875
+    },
+    {
+      "id": "12L7xBUqEj",
+      "guid": "12L7xBUqEj",
+      "created": "2021-06-20T10:01:50.859Z",
+      "lastUpdated": "2021-06-20T10:01:50.859Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "They found that world-class chess experts\n\tsaw the board differently to beginners. A beginner would see\n\t“a pawn here, a rook there”, and so on, a series\n\tof individual pieces. Masters, by contrast, saw much more\n\telaborate “chunks”: combinations of pieces that\n\tthey recognized as a unit, and were able to reason about at a\n\thigher level of abstraction than the individual pieces."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19333.6875
+    },
+    {
+      "id": "1giYevYUSL",
+      "guid": "1giYevYUSL",
+      "created": "2021-06-20T10:02:04.417Z",
+      "lastUpdated": "2021-06-20T10:02:04.417Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Simon estimated chess masters learn between 25,000 and 100,000\n\tof these chunks during their training, and that learning the\n\tchunks was a key element in becoming a first-rate chess\n\tplayer"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19439.6875
+    },
+    {
+      "id": "12cXzYhDm3",
+      "guid": "12cXzYhDm3",
+      "created": "2021-06-20T10:02:40.975Z",
+      "lastUpdated": "2021-06-20T10:02:40.975Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Why does learning to recognize and reason about such chunks\n\thelp so much in developing expertise? Here's a speculative,\n\tinformal model"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19509.6875
+    },
+    {
+      "id": "1fFRU2d2Yg",
+      "guid": "1fFRU2d2Yg",
+      "created": "2021-06-20T10:02:54.152Z",
+      "lastUpdated": "2021-06-20T10:02:54.152Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "many top mathematicians have, through hard work,\n\tinternalized many more complex mathematical chunks than\n\tordinary humans. And what this means is that mathematical\n\tsituations which seem very complex to the rest of us seem very\n\tsimple to them"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19721.6875
+    },
+    {
+      "id": "1WLWyppSsA",
+      "guid": "1WLWyppSsA",
+      "created": "2021-06-20T10:03:29.394Z",
+      "lastUpdated": "2021-06-20T10:03:29.394Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Now, the concept of chunks used by Simon in his study of chess\n\tplayers actually came from a famous 1956 paper by George\n\tMiller, “The Magical Number Seven, Plus or Minus\n\tTwo”** George\n\tA. Miller, The\n\tMagical Number Seven, Plus or Minus Two: Some Limits on our\n\tCapacity for Processing Information (1956)..\n\tMiller argued that the capacity of working memory is roughly\n\tseven chunks"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 19863.6875
+    },
+    {
+      "id": "123zuxmf1p",
+      "guid": "123zuxmf1p",
+      "created": "2021-06-20T10:04:05.309Z",
+      "lastUpdated": "2021-06-20T10:04:05.309Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Put another way, in Miller's account the chunk was effectively\n\tthe basic unit of working memory. And so Simon and\n\this collaborators were studying the basic units used in the\n\tworking memory of chess players. If those chunks were more\n\tcomplex, then that meant a player's working memory had a\n\thigher effective capacity"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 20235.6875
+    },
+    {
+      "id": "1bTNJ9pQgx",
+      "guid": "1bTNJ9pQgx",
+      "created": "2021-06-20T10:04:20.762Z",
+      "lastUpdated": "2021-06-20T10:04:20.762Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "In other words, having more chunks memorized in some domain is\n\tsomewhat like an effective boost to a person's IQ in that\n\tdomain."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 20359.6875
+    },
+    {
+      "id": "1GjSLX8UEe",
+      "guid": "1GjSLX8UEe",
+      "created": "2021-06-20T10:04:41.909Z",
+      "lastUpdated": "2021-06-20T10:04:41.909Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Distributed practice"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 20610.40625
+    },
+    {
+      "id": "12K9XCY5WL",
+      "guid": "12K9XCY5WL",
+      "created": "2021-06-20T10:05:12.458Z",
+      "lastUpdated": "2021-06-20T10:05:12.458Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "But the great German\n      psychologist Hermann Ebbinghaus had the good idea of studying\n      memory decay systematically and\n      quantitatively** Hermann\n      Ebbinghaus, Memory:\n      A Contribution to Experimental Psychology (1885"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 20790.125
+    },
+    {
+      "id": "1QQ8hZnSLK",
+      "guid": "1QQ8hZnSLK",
+      "created": "2021-06-20T10:05:21.859Z",
+      "lastUpdated": "2021-06-20T10:05:21.859Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": " A recent\n      replication of Ebbinghaus's results may be found in: Jaap\n      M. J. Murre and Joeri\n      Dros, Replication\n      and Analysis of Ebbinghaus' Forgetting Curve\n      (2015)"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 20826.125
+    },
+    {
+      "id": "124QdfiuU6",
+      "guid": "124QdfiuU6",
+      "created": "2021-06-20T10:05:38.168Z",
+      "lastUpdated": "2021-06-20T10:05:38.168Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "oday, this is\n      called the Ebbinghaus forgetting curve:"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 20968.125
+    },
+    {
+      "id": "12hwQ7XG3t",
+      "guid": "12hwQ7XG3t",
+      "created": "2021-06-20T10:05:54.722Z",
+      "lastUpdated": "2021-06-20T10:05:54.722Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "What determines the steepness of the curve, i.e., how quickly\n      memories decay? In fact, the steepness depends on many\n      things. For instance, it may be steeper for more complex or less\n      familiar concepts. You may find it easier to remember a name\n      that sounds similar to names you've heard before: say, Richard\n      Hamilton, rather than Suzuki Harunobu"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 21502.125
+    },
+    {
+      "id": "12BxMjLh85",
+      "guid": "12BxMjLh85",
+      "created": "2021-06-20T10:06:29.490Z",
+      "lastUpdated": "2021-06-20T10:06:29.490Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "n\n      exception is: Burr Settles and Brendan\n      Meeder, A Trainable Spaced\n      Repetition Model for Language Learning (2016). This paper\n      builds a regression model to predict the decay rate of student\n      memory on Duolingo"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 21646.125
+    },
+    {
+      "id": "12CzVTNtUr",
+      "guid": "12CzVTNtUr",
+      "created": "2021-06-20T10:06:49.412Z",
+      "lastUpdated": "2021-06-20T10:06:49.412Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Suppose you're introduced to a person at a party, and then don't\n      think about their name for 20 minutes. But then you need to\n      introduce them to someone else, and so need to bring it to\n      mind. Immediately after that, your probability of recall will\n      again be very high.  Ebbinghaus's research suggested that the\n      probability will decay exponentially after the re-test, but the\n      rate of decay will be slower than it was initially."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 21752.125
+    },
+    {
+      "id": "1AfScHZFn5",
+      "guid": "1AfScHZFn5",
+      "created": "2021-06-20T10:07:16.788Z",
+      "lastUpdated": "2021-06-20T10:07:16.788Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "There are several\n      related terms used for this set of phenomena, but we'll use the\n      phrase “distributed practice”, meaning practice\n      which is distributed in time"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 22446.125
+    },
+    {
+      "id": "12DkoP86Wf",
+      "guid": "12DkoP86Wf",
+      "created": "2021-06-20T10:07:22.301Z",
+      "lastUpdated": "2021-06-20T10:07:22.301Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "This is in contrast to cramming,\n      often known as massed practice, where people try to fit all\n      their study into just one session, relying on repetition."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 22482.125
+    },
+    {
+      "id": "12NQAUgBgR",
+      "guid": "12NQAUgBgR",
+      "created": "2021-06-20T10:07:27.887Z",
+      "lastUpdated": "2021-06-20T10:07:27.887Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "On the role of cognitive science in the design of systems to\n    augment cognition\n\n      "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#8DFF76",
+      "order": 22536.84375
+    },
+    {
+      "id": "12Yv8SughU",
+      "guid": "12Yv8SughU",
+      "created": "2021-06-20T10:07:56.562Z",
+      "lastUpdated": "2021-06-20T10:07:56.562Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "ince Ebbinghaus, there's been thousands of studies of\n\tdifferent variations of distributed practice. These studies\n\thave taught us a great deal about the behavior of long-term\n\tmemory."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 22576.5625
+    },
+    {
+      "id": "12Dg7iEohL",
+      "guid": "12Dg7iEohL",
+      "created": "2021-06-20T10:08:02.046Z",
+      "lastUpdated": "2021-06-20T10:08:02.046Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Most of all, they show emphatically that distributed\n\tpractice outperforms massed\n\tpractice**"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 22594.5625
+    },
+    {
+      "id": "12RgkmKUET",
+      "guid": "12RgkmKUET",
+      "created": "2021-06-20T10:08:11.569Z",
+      "lastUpdated": "2021-06-20T10:08:11.569Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "Remarkably, they\n\toften believe that massed practice is more effective, despite\n\tthe fact that it is reliably outperformed by distributed\n\tpractice"
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 22648.5625
+    },
+    {
+      "id": "1hHv9PNEVz",
+      "guid": "1hHv9PNEVz",
+      "created": "2021-06-20T10:08:35.158Z",
+      "lastUpdated": "2021-06-20T10:08:35.158Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "et me point to several reviews which serve as useful\n\tentry points. Benedict Carey's book “How We Learn”\n\t(2015) is a good introduction at a popular level.  Useful\n\treviews of the distributed practice literature include:\n\tCepeda et\n\tal, Distributed Practice\n\tin Verbal Recall Tasks: A Review and Quantitative\n\tSynthesis (2006); and: Gwern\n\tBranwen, Spaced-Repetition.."
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "#F78DA7",
+      "order": 22684.5625
+    },
+    {
+      "id": "12tkkvCrN6",
+      "guid": "12tkkvCrN6",
+      "created": "2021-06-20T10:10:12.299Z",
+      "lastUpdated": "2021-06-20T10:10:12.299Z",
+      "rects": {},
+      "textSelections": {},
+      "text": {
+        "TEXT": "This places us in a curious situation: we have enough\n\tunderstanding of memory to conclude that a system like Anki\n\tshould help a lot. But many of the choices needed in the\n\tdesign of such a system must be made in an\n\tad hoc way, guided by intuition and unconfirmed\n\thypotheses. The experiments in the scientific literature\n\tdo not yet justify those design choices. "
+      },
+      "images": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "color": "yellow",
+      "order": 23458.5625
+    }
+  ]
+
+}
